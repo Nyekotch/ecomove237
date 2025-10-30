@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "title": "ECOLOGICAL MOVEMENT",
+    "subtitle": "Support, Audit, Compliance, Development",
+    "cta": "Discover our services"
+  },
+  "why": {
+    "title": "You need us if...",
+    "items": [
+      "You want to comply with environmental regulations",
+      "You want to win or retain major clients with international standards",
+      "You want a greener, more efficient production system",
+      "You want personalized support"
+    ]
+  },
+  "services": {
+    "title": "Our services",
+    "items": [
+      "Environmental and Social Impact Studies",
+      "Environmental Impact Audit",
+      "Environmental Impact Notice",
+      "Strategic Environmental Assessment",
+      "Hazard Studies and Emergency Plans",
+      "QHSE Support and Compliance",
+      "Environmental Permit Application"
+    ]
+  }
+  ,
+  "team": {
+    "title": "Our Team",
+    "subtitle": "A young, mobile, dynamic and flexible team"
+  }
+  ,
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Real projects for a sustainable future"
+  }
+  ,
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Need an audit, EIS, or QHSE support? Let's talk.",
+    "info": "Contact Information",
+    "form": "Send us a message"
+  },
+  "form": {
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company",
+    "message": "Your message",
+    "send": "Send",
+    "sending": "Sending..."
+  }
+
+
+
+}

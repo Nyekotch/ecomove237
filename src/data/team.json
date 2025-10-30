@@ -1,0 +1,81 @@
+[
+  {
+    "name": "BINYENG MELINGUI Diane",
+    "qualification": "Ingénieur en environnement spécialisé en gestion des déchets",
+    "role": "Associé Gérante",
+    "skills": [
+      "Suivi HSE pendant les travaux de construction et en entreprise",
+      "Conception des unités de traitement des déchets",
+      "Conception d'une station d'épuration, traitement des eaux usées",
+      "Réalisation des études d'impacts, études de dangers, audits environnementaux et études stratégiques",
+      "Planification stratégique"
+    ],
+    "photo": "/src/assets/images/default-profile.svg"
+  },
+  {
+    "name": "NJEMOUN AXEL RODRIGUE",
+    "qualification": "Ingénieur en environnement spécialiste en EIE",
+    "role": "Responsable des projets",
+    "skills": [
+      "Prévention et gestion des risques et catastrophes",
+      "Management HSE",
+      "Gestion des déchets",
+      "Gestion des écosystèmes terrestres et aquatiques",
+      "Protection de la nature et développement durable"
+    ],
+    "photo": "/src/assets/images/default-profile.svg"
+  },
+  {
+    "name": "AMAH IGOR NANKO WETIE",
+    "qualification": "Ingénieur en environnement",
+    "role": "Directeur technique adjoint",
+    "skills": [
+      "Pollutions assessment",
+      "Risk management processes and analysis",
+      "Good at analysis and reporting",
+      "Project management",
+      "Data management",
+      "Staff development",
+      "Process implementation"
+    ],
+    "photo": "/src/assets/images/default-profile.svg"
+  },
+  {
+    "name": "TOCHE Fabrice",
+    "qualification": "Socio environnementaliste",
+    "role": "Consultant environnementaliste",
+    "skills": [
+      "Élaboration et mise en place d'un Système de Management Environnemental (SME) selon la norme ISO 14001",
+      "Suivi de la mise en œuvre d'un Plan de Gestion Environnementale et Sociale (PGES)",
+      "Préparation et suivi des Plans d'Action de Réinstallation (PAR)",
+      "Conduite des processus de déclaration d'utilité publique et d'indemnisation",
+      "Analyses des pollutions et nuisances industrielles (eau, air, sol et bruit)"
+    ],
+    "photo": "/src/assets/images/default-profile.svg"
+  },
+  {
+    "name": "MELINGUI AURELIE",
+    "qualification": "Qualiticienne",
+    "role": "Consultante QHSE",
+    "skills": [
+      "Conception et animation des formations dans les domaines de la qualité, de la gestion des risques",
+      "Identification de non-conformité, mise en place d'actions correctives, recommandations et actions d'amélioration",
+      "Rédaction des procédures système, de travail, de production …",
+      "Audit diagnostic des systèmes de management de la qualité ISO 9001"
+    ],
+    "photo": "/src/assets/images/default-profile.svg"
+  },
+  {
+    "name": "BANAGNAK BALATA MARIUS",
+    "qualification": "Géographe / cartographe",
+    "role": "Co-gérant / Responsable SIG",
+    "skills": [
+      "Géomatique (Cartographie, SIG, Télédétection…)",
+      "Gestion des risques et catastrophes",
+      "Gestion/Vulnérabilité côtière",
+      "Gestion des ressources naturelles",
+      "Changements climatiques et adaptation"
+    ],
+    "photo": "/src/assets/images/default-profile.svg"
+  }
+]

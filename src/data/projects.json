@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Consultations publiques EIES – TOP FOOD",
+      "desc": "Réunions relatives à l’EIES de l’usine de siroperie à Nkende-Dibombari",
+      "image": "top-food-consultation.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Consultations publiques – ABP PETROLEUM",
+      "desc": "EIES station-service à OBAM-NGOLA, Yaoundé III",
+      "image": "abp-petroleum-consultation.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Décharge de SECA",
+      "desc": "Audit et suivi environnemental",
+      "image": "decharge-seca.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Enquête de voisinage – 102 boutiques",
+      "desc": "NIES gare routière de Bamougoum",
+      "image": "boutiques-bamougoum.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mise en œuvre PGES – CHINA LONGTENG",
+      "desc": "Carrière de pierres, Bafoussam III",
+      "image": "china-longteng-pges.jpg"
+    },
+    {
+      "id": 6,
+      "title": "EIES unité MTA – Nkomo",
+      "desc": "Consultations publiques pour production de médicaments traditionnels améliorés",
+      "image": "mta-nkomo.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Restitution PCGD Bafoussam III",
+      "desc": "Draft zéro du Plan Communal de Gestion des Déchets",
+      "image": "restitution-pcgd.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Collecte de données PCGD",
+      "desc": "Équipe terrain pour l’élaboration du PCGD Bafoussam III",
+      "image": "collecte-donnees-pcgd.jpg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "MOUVEMENT ÉCOLOGIQUE",
+    "subtitle": "Accompagnement, Audit, Mise à niveau, Développement",
+    "cta": "Découvrir nos services"
+  },
+  "why": {
+    "title": "Vous avez besoin de nous si...",
+    "items": [
+      "Vous souhaitez vous mettre à jour sur la réglementation environnementale",
+      "Vous envisagez garder ou acquérir un gros client en respectant les normes internationales",
+      "Vous souhaitez un système de production plus écologique",
+      "Vous souhaitez bénéficier d’un accompagnement personnalisé"
+    ]
+  },
+  "services": {
+    "title": "Nos prestations",
+    "items": [
+      "Études d’impact Environnemental et Social",
+      "Audit d’Impact environnemental",
+      "Notice d’Impact environnemental",
+      "Évaluation environnementale stratégique",
+      "Études des Dangers et plan d’urgence",
+      "Accompagnement et mise à niveau QHSE",
+      "Procédure d’obtention d’un permis environnemental"
+    ]
+  }
+  ,
+  "team": {
+    "title": "Notre Équipe",
+    "subtitle": "Une équipe jeune, mobile, dynamique et flexible"
+  }
+  ,
+  "projects": {
+    "title": "Nos Réalisations",
+    "subtitle": "Des projets concrets pour un avenir durable"
+  }
+  ,
+  "nav": {
+  "projects": "Réalisation"
+}
+,
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Besoin d’un audit, d’une EIES ou d’un accompagnement QHSE ? Parlons-en.",
+    "info": "Nos coordonnées",
+    "form": "Envoyez-nous un message"
+  },
+  "form": {
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "company": "Entreprise",
+    "message": "Votre message",
+    "send": "Envoyer",
+    "sending": "Envoi en cours..."
+  }
+
+
+}

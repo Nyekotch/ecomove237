@@ -1,0 +1,48 @@
+.card {
+  background-color: white;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  transition: box-shadow 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.name {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #4CAF50;
+  margin-bottom: 0.5rem;
+}
+
+.role {
+  color: #2E7D32;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.qualification {
+  color: #666;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.skillsList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.5rem;
+}
+
+.skillItem {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.bullet {
+  color: #81C784;
+  margin-right: 0.5rem;
+}

@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Hero />
-      
+
       {/* Section Pourquoi nous - Design moderne avec cartes */}
       <section className="py-12 sm:py-20 bg-gradient-to-b from-white to-gray-50">
         <div className="container mx-auto px-4 sm:px-6">
@@ -45,13 +45,13 @@ export default function Home() {
                 >
                   {/* Effet de gradient au hover */}
                   <div className="absolute inset-0 bg-gradient-to-br from-secondary/5 to-primary/5 rounded-xl sm:rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                  
+
                   <div className="relative flex items-start gap-3 sm:gap-4">
                     {/* Icône avec cercle coloré */}
                     <div className="flex-shrink-0 w-12 h-12 sm:w-14 sm:h-14 bg-gradient-to-br from-secondary to-secondary/80 rounded-lg sm:rounded-xl flex items-center justify-center shadow group-hover:scale-105 sm:group-hover:scale-110 transition-transform duration-300">
                       <Icon className="w-6 h-6 sm:w-7 sm:h-7 text-white" />
                     </div>
-                    
+
                     <div className="flex-1">
                       <p className="text-base sm:text-lg text-gray-800 leading-relaxed font-medium">
                         {item}
@@ -70,12 +70,12 @@ export default function Home() {
         </div>
       </section>
 
-          {/* Services - Design liste amélioré */}
+      {/* Services - Design liste amélioré */}
       <section id="services" className="py-12 sm:py-20 bg-white relative overflow-hidden">
         {/* Éléments décoratifs en arrière-plan */}
         <div className="absolute top-0 right-0 w-64 sm:w-96 h-64 sm:h-96 bg-primary/5 rounded-full blur-3xl -z-10" />
         <div className="absolute bottom-0 left-0 w-64 sm:w-96 h-64 sm:h-96 bg-secondary/5 rounded-full blur-3xl -z-10" />
-        
+
         <div className="container mx-auto px-4 sm:px-6">
           {/* En-tête de section */}
           <div className="text-center mb-10 sm:mb-16">
@@ -91,7 +91,9 @@ export default function Home() {
             <p className="text-gray-600 text-base sm:text-lg max-w-2xl mx-auto px-2">
               Une gamme complète de solutions adaptées à vos besoins
             </p>
-          </div>          {/* Liste de services en colonnes avec design moderne */}
+          </div>
+
+          {/* Liste de services en colonnes avec design moderne */}
           <div className="max-w-5xl mx-auto">
             <div className="grid md:grid-cols-2 gap-6">
               {servicesItems.map((item: string, i: number) => (
@@ -103,7 +105,7 @@ export default function Home() {
                   <div className="flex-shrink-0 w-6 h-6 sm:w-8 sm:h-8 bg-gradient-to-br from-secondary to-secondary/80 rounded-md sm:rounded-lg flex items-center justify-center group-hover:scale-105 sm:group-hover:scale-110 transition-transform duration-300 shadow-sm">
                     <CheckCircle className="w-4 h-4 sm:w-5 sm:h-5 text-white" strokeWidth={2.5} />
                   </div>
-                  
+
                   <p className="text-base sm:text-lg text-gray-800 leading-relaxed flex-1">
                     {item}
                   </p>

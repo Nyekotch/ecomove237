@@ -1,6 +1,6 @@
 [
   {
-    "name": "BINYENG MELINGUI Diane",
+    "name": "BINYENG MELINGUI DIANE",
     "qualification": "Ingénieur en environnement spécialisé en gestion des déchets",
     "role": "Associé Gérante",
     "skills": [
@@ -10,7 +10,20 @@
       "Réalisation des études d'impacts, études de dangers, audits environnementaux et études stratégiques",
       "Planification stratégique"
     ],
-    "photo": "/src/assets/images/default-profile.svg"
+    "photo": "/src/assets/images/Diane.jpeg"
+  },
+  {
+    "name": "BANAGNAK BALATA MARIUS",
+    "qualification": "Géographe / Environnementaliste",
+    "role": "Co-gérant / Responsable du developpement",
+    "skills" : [
+      "Analyse geographique et environnementale",
+      "Expertise en gestion environnementale",
+      "Reglementation et normes environnementales",
+      "Etudes d'impact environnmentale",
+      "Planification et amenagement du territoire"
+    ],
+    "photo" : "/src/assets/images/Rica.jpeg"
   },
   {
     "name": "NJEMOUN AXEL RODRIGUE",
@@ -41,7 +54,7 @@
     "photo": "/src/assets/images/default-profile.svg"
   },
   {
-    "name": "TOCHE Fabrice",
+    "name": "TOCHE FRABRICE",
     "qualification": "Socio environnementaliste",
     "role": "Consultant environnementaliste",
     "skills": [
@@ -66,9 +79,9 @@
     "photo": "/src/assets/images/default-profile.svg"
   },
   {
-    "name": "BANAGNAK BALATA MARIUS",
+    "name": "Dr MBEVO FEUDOUNG PHILIPPE",
     "qualification": "Géographe / cartographe",
-    "role": "Co-gérant / Responsable SIG",
+    "role": "Responsable SIG",
     "skills": [
       "Géomatique (Cartographie, SIG, Télédétection…)",
       "Gestion des risques et catastrophes",

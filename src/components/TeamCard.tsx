@@ -21,6 +21,7 @@ export default function TeamCard({ member }: Props) {
 
   const resolvePhoto = (photoPath: string) => {
     if (!photoPath) return "";
+    
     // team.json peut contenir "/src/assets/images/default-profile.svg" ou juste un nom de fichier
     const filename = photoPath.split("/").pop()!.toLowerCase();
     for (const p in assetImgs) {

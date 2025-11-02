@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "ECOLOGICAL MOVEMENT",
+    "title": "ENVIRONMENTAL CONSULTING OFFICE",
     "subtitle": "Support, Audit, Compliance, Development",
     "cta": "Discover our services"
   },
@@ -13,29 +13,28 @@
       "You want personalized support"
     ]
   },
+  "accueil": {
+    "title": "Home"
+  },
   "services": {
     "title": "Our services",
     "items": [
       "Environmental and Social Impact Studies",
       "Environmental Impact Audit",
-      "Environmental Impact Notice",
       "Strategic Environmental Assessment",
-      "Hazard Studies and Emergency Plans",
+      "Hazard Studies and Emergency Plan",
       "QHSE Support and Compliance",
       "Environmental Permit Application"
     ]
-  }
-  ,
+  },
   "team": {
     "title": "Our Team",
     "subtitle": "A young, mobile, dynamic and flexible team"
-  }
-  ,
+  },
   "projects": {
     "title": "Our Projects",
     "subtitle": "Real projects for a sustainable future"
-  }
-  ,
+  },
   "contact": {
     "title": "Contact Us",
     "subtitle": "Need an audit, EIS, or QHSE support? Let's talk.",
@@ -51,7 +50,4 @@
     "send": "Send",
     "sending": "Sending..."
   }
-
-
-
 }

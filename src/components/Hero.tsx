@@ -11,7 +11,7 @@ export default function Hero() {
         
         {/* Logo animé */}
         <motion.img
-          src={logo}
+          src="/file.svg"
           alt="ECOMOVE Cameroon"
           className="h-20 sm:h-24 md:h-28 lg:h-32 mx-auto mb-6"
           initial={{ y: -50, opacity: 0 }}

@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import logo from "@/assets/images/logo.jpg";
+
 
 export default function Footer() {
   const { t } = useTranslation();
@@ -17,7 +17,7 @@ export default function Footer() {
       <div className="container mx-auto px-6 text-center md:text-left md:flex md:justify-between md:items-center">
         {/* Logo et nom */}
         <div className="mb-6 md:mb-0">
-          <img src={logo} alt="ECOMOVE Cameroon" className="h-12 mx-auto md:mx-0 mb-2" />
+          <img src="/file.svg" alt="ECOMOVE Cameroon" className="h-12 mx-auto md:mx-0 mb-2" />
           <h3 className="text-xl font-bold">MOUVEMENT ÉCOLOGIQUE</h3>
           <p>Accompagnement, Audit, Mise à niveau</p>
         </div>

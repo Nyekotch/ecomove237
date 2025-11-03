@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 import Projects from "./pages/Projects";
 import { useState } from "react";
 import Contact from "./pages/Contact";
-
+import Footer from "./components/Footer";
 
 export default function App() {
   const { t, i18n } = useTranslation();
@@ -115,7 +115,7 @@ export default function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
-
+        <Footer />
       </main>
 
     </BrowserRouter>

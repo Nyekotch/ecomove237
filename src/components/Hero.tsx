@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
-import logo from "../assets/images/logo.jpg";
+
 
 export default function Hero() {
   const { t } = useTranslation();

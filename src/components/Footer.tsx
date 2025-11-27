@@ -1,10 +1,10 @@
 // src/components/Footer.tsx
 import { motion } from "framer-motion";
-import { useTranslation } from "react-i18next";
+
 import { Link } from "react-router-dom";
 
 export default function Footer() {
-  const { t } = useTranslation();
+
 
   const services = [
     "Études d’impact Environnemental et Social",
@@ -21,7 +21,7 @@ export default function Footer() {
       {/* Main Footer */}
       <div className="container mx-auto px-4 sm:px-6 py-8 sm:py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 text-center md:text-left">
-          
+
           {/* Logo + Slogan */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
